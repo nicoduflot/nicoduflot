@@ -2,7 +2,7 @@ En français :
 
 - 👋Bonjour, je suis Nicolas Duflot (@nicoduflot)
 - 👀 je suis intéressé par le développement web fullstack : maîtriser le webdesign, le bac office et l'intégration.
-- 🌱 je suis actuellement formateur en développement de site web, en méthode AGILE et en utilisation / administration de JIRA.
+- 🌱 je suis actuellement formateur en développement de site web et en méthode de gestion de projet AGILE
 - 📫 Pour me contacter, https://www.linkedin.com/in/nicolas-duflot-75044567/
 - :game_die: Je crée aussi des jeux de rôle papier accessibles (https://nico-duflot.itch.io/) et des jeux de figurines (https://heartofpulp.com/)
 
